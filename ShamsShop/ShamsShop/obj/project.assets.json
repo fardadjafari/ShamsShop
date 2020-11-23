@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\source\\git\\Shams-Shop\\ShamsShop\\ShamsShop\\ShamsShop.csproj",
+      "projectUniqueName": "F:\\source\\git\\ShamsShop\\ShamsShop\\ShamsShop\\ShamsShop.csproj",
       "projectName": "ShamsShop",
-      "projectPath": "F:\\source\\git\\Shams-Shop\\ShamsShop\\ShamsShop\\ShamsShop.csproj",
+      "projectPath": "F:\\source\\git\\ShamsShop\\ShamsShop\\ShamsShop\\ShamsShop.csproj",
       "packagesPath": "C:\\Users\\fardadj\\.nuget\\packages\\",
-      "outputPath": "F:\\source\\git\\Shams-Shop\\ShamsShop\\ShamsShop\\obj\\",
+      "outputPath": "F:\\source\\git\\ShamsShop\\ShamsShop\\ShamsShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

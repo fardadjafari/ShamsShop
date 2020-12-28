@@ -2,23 +2,52 @@
 	font-family: 'Sahel' !important;
 }
 
-.m-r-25-pr{
-	margin-right: 25%;
+.dir{
+	direction: rtl;
+	text-align: right;
 }
 
-.five-em{
+.blog-header-en{
+	float: left;
+	margin-left: 25%;
 	font-size: 5em;
+}
+
+.blog-header-fa{
+	margin-right: 25%;
+	font-size: 5em;
+}
+
+.card{
+	border: 0px;
+	border-radius: 33px !important;
+	background-color: rgb(249, 249, 249);
+}
+
+.card2{
+	border: 0px;
+	border-radius: 33px !important;
+	background-color: rgb(249, 249, 249);
+}
+
+.round-right{
+	border-top-right-radius: 33px;
+	border-bottom-right-radius: 33px;
+}
+
+.m3pr{
+	margin-bottom: 3%;
+}
+
+.cntr{
+	padding-left: 11%;
+	padding-right: 11%;
 }
 
 .float-left{
 	float: left;
 }
 
-.m-l-25-pr{
-	margin-left: 25%;
-}
-
-.dir{
-	direction: rtl;
-	text-align: right;
+.float-right{
+	float: right;
 }

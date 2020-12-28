@@ -1,0 +1,24 @@
+.farsi{
+	font-family: 'Sahel' !important;
+}
+
+.m-r-25-pr{
+	margin-right: 25%;
+}
+
+.five-em{
+	font-size: 5em;
+}
+
+.float-left{
+	float: left;
+}
+
+.m-l-25-pr{
+	margin-left: 25%;
+}
+
+.dir{
+	direction: rtl;
+	text-align: right;
+}

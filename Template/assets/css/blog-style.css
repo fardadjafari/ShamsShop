@@ -24,6 +24,10 @@
 	background-color: rgb(249, 249, 249);
 }
 
+.border{
+	border: 1px solid rgb(249, 249, 249);
+}
+
 .card2{
 	border: 0px;
 	border-radius: 33px !important;
@@ -50,4 +54,25 @@
 
 .float-right{
 	float: right;
+}
+
+.padd3pr{
+	padding: 3%;
+}
+
+.padd1pr{
+	padding: 1%;
+}
+
+.rond{
+	border: 0px;
+	border-radius: 33px !important;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.mt3pr{
+	margin-top: 3%;
 }

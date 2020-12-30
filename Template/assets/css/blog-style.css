@@ -1,7 +1,3 @@
-.farsi{
-	font-family: 'Sahel' !important;
-}
-
 .dir{
 	direction: rtl;
 	text-align: right;
@@ -75,4 +71,15 @@
 
 .mt3pr{
 	margin-top: 3%;
+}
+
+/*  */
+@font-face {
+	font-family: Sahel;
+	src: url(../fonts/Sahel.ttf);
+}
+/*  */
+
+.farsi{
+	font-family: 'Sahel' !important;
 }
